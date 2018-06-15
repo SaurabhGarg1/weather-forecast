@@ -28,7 +28,7 @@ class Weather extends Component {
 			            </div>
 			            <p class="card-info">{item.weather[0].description}</p>
 			        </section>
-			    ): <p> Please wait.....!! </p>}
+			    ): <p> Please wait..!! </p>}
     			</div>
 			</main>
 		)
