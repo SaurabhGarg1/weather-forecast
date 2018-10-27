@@ -2,6 +2,7 @@
   "name": "weather-forecast",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "http://myname.github.io/myapp",
   "dependencies": {
     "babel-polyfill": "^6.3.14",
     "react": "^16.2.0",
